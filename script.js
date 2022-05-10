@@ -8,11 +8,12 @@
    */
   function init() {
 
+    //Exercise 1: 3, 2, 1, Go!
     timeoutOne();
-  //  timeoutTwo();
+    //timeoutTwo();
 
-    
-  //interval();
+    //Exercise 2: 3, 2, 1, Go….. again!
+    //interval();
     
     
   }
